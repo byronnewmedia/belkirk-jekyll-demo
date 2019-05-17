@@ -9,7 +9,7 @@ partners:
 - "/uploads/2017/11/13/nysed.png"
 services:
 - heading: Our Golden Bough
-  description: ''
+  description: An exploration of our national flora, wattle.
   icon: "/uploads/2019/05/17/BFAD61D9-4217-4034-ADC8-855A54C34AD4.jpeg"
 sub_heading: australian landscape artist
 textline: Dean Power is an Australian landscape artist based in Byron Bay, the most
